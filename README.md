@@ -57,9 +57,4 @@ This project is open-source and available under an open-source license.
 
 Special thanks to Apana College for teaching me web development.
 
-## Contact
 
-If you have any questions or would like to get in touch, feel free to contact me:
-
-- Phone: 9634879999
-- LinkedIn: [www.linkedin.com/in/sharad-chauhan-24a62126a](www.linkedin.com/in/sharad-chauhan-24a62126a)
